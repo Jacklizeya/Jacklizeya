@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**Jacklizeya/Jacklizeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Hello World wave I'm Jack Li
 - 🔭 I’m currently working on developing my skills
 - 🌱 I’m currently learning Full Stack Developer
