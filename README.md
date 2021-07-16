@@ -1,4 +1,4 @@
-Hello World wave I'm Jack Li
+Hello World I'm Jack Li
 - 🔭 I’m currently working on developing my skills
 - 🌱 I’m currently learning Full Stack Developer
 - 👯 I’m looking to collaborate on full stack project
