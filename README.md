@@ -7,7 +7,7 @@ Practising algorithms is a long-term investment, I do it everyday
 🏃🏻 As well as competitions, codejam, kickstart ...etc
 
 My tech stack
-:yum:
+
 Frontend
 javascript react bootstrap css3 html5 
 
