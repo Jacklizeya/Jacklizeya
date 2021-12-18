@@ -12,10 +12,10 @@ Frontend
 javascript react bootstrap css3 html5 
 
 Backend
-nodejs express python 
+nodejs express python Java SQL
 
 Source Control
-git
+Github, Git, BitBucket, SourceTree
 
-Others
-heroku
+Deployment
+Heroku
