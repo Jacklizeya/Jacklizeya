@@ -1,5 +1,5 @@
 Hello World I'm Jack Li
-- 🔭 I’m a software engineer at Silicon Valley
+- 🔭 I’m a software engineer at Silicon Valley USA with F.A.A.N.G company
 - 🌱 I’m focusing on Full Stack Web Developement
 - 👯 I’m very interested about combining new software skills with my past engineering experience, possible application like Drones, IOT, SpaceX, Tesla
 
