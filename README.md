@@ -11,13 +11,8 @@ I learn by
 
 My tech stack
 
-Frontend
-react.js angular.dart 
-
-Backend
-Java, C++
-
-Database
-MongoDB, SQL
+Frontend: react.js angular.dart 
+Backend: Java, C++
+Database: MongoDB, SQL
 
 
