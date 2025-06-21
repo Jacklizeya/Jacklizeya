@@ -1,7 +1,7 @@
 Hello World I'm Jack Li
 - 🔭 I’m a software engineer at Silicon Valley USA with F.A.A.N.G company
 - 🌱 I’m focusing on Full Stack Web Developement
-- 👯 I’m very interested about combining new software skills with my past engineering experience, possible application like Drones, IOT, SpaceX, Tesla
+- 👯 I’m very interested about combining new software skills with my past engineering experience, possible application like Robotics, Drones, IOT, Space Exploration
 
 I learn by 
 1. Research deeply
@@ -12,13 +12,12 @@ I learn by
 My tech stack
 
 Frontend
-react.js angular.dart css3 html5 
+react.js angular.dart 
 
 Backend
-nodejs express.js python Java SQL
+Java, C++
 
-Source Control
-Github, Git, BitBucket, SourceTree
+Database
+MongoDB, SQL
 
-Deployment
-Heroku
+
